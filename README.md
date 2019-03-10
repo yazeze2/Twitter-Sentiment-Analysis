@@ -14,7 +14,7 @@ The general requirements for this project are as follows:
 - numpy
 - pandas
 - matplotlib
-- sci-kit learn
+- scikit-learn
 - scipy
 - wordcloud
 ### Preprocessing
